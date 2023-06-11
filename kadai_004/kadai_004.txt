@@ -1,0 +1,13 @@
+
+C:\Users\yakum\OneDrive\デスクトップ\TSET\git_challenge>git log
+commit 73db2060501129e14b716f60ab4dfcbe84f3056d (HEAD -> master)
+Author: 山本大也 <6C12.112Cn285@gmail.com>
+Date:   Sun Jun 11 11:26:14 2023 +0900
+
+    日本語を追記
+
+commit 5458da6cd83355b8a27eea1293ba7b092a9ec82c
+Author: 山本大也 <6C12.112Cn285@gmail.com>
+Date:   Sun Jun 11 11:25:16 2023 +0900
+
+    hello_worldを追加
